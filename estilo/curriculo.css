@@ -1,0 +1,28 @@
+p {
+    color:rgb(88, 160, 202);
+        background-size: 300px;
+}
+
+div {
+    color: rgb(15, 211, 146);
+}
+
+h1 {
+    color:rgb(8, 0, 0)
+}
+
+section {
+            background-color: rgba(10, 6, 6, 0);
+}
+
+id {
+    color:rgb(0, 0, 0)
+}
+
+ul {
+    font-style: italic;
+}
+li {
+    font-style: oblique;
+    color:rgb(132, 224, 194)
+}
